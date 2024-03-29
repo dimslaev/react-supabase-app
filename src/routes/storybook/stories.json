@@ -1,0 +1,33 @@
+{
+  "Dialog": {
+    "path": "../../components/Dialog/Dialog.stories.tsx",
+    "stories": [
+      "Default",
+      "Cancel",
+      "CustomLabels"
+    ]
+  },
+  "Form": {
+    "path": "../../components/Form/Form.stories.tsx",
+    "stories": [
+      "Default"
+    ]
+  },
+  "FormControl": {
+    "path": "../../components/Form/FormControl.stories.tsx",
+    "stories": [
+      "Default",
+      "Required",
+      "Error",
+      "Tooltip"
+    ]
+  },
+  "Table": {
+    "path": "../../components/Table/Table.stories.tsx",
+    "stories": [
+      "Default",
+      "Sorting",
+      "Surface"
+    ]
+  }
+}
